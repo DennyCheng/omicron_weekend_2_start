@@ -1,0 +1,12 @@
+.box{
+    height: 15px;
+    width: 15px;
+    border: 1px solid black;
+    margin: 0px;
+    display: inline-block;
+}
+
+.highLight{
+  background-color: yellow;
+
+}
