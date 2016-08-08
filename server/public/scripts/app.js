@@ -79,19 +79,15 @@ $(document).ready(function(){
           }
         }
 
-  function timerSet() {
-setInterval(function(){
-	priceChange();
-	priceSet();
- }, 15000);
-}
+//   function timerSet() {
+// setInterval(function(){
+//createPerson(data.omicron[personCounter]);
+// createBoxes();
+// changeBox();
+//  }, 15000);
+// }
+//doesn't work need to rework
 
-timerSet();
-
-
-setInterval(function(){
-
- }, 300000);
        }
     });
 });
